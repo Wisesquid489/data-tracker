@@ -1,0 +1,8 @@
+streamlit
+pandas
+psutil
+requests
+fpdf
+matplotlib
+networkx
+pydeck
